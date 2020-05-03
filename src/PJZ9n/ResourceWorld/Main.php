@@ -3,25 +3,25 @@
 /**
  * Copyright (c) 2020 PJZ9n.
  *
- * This file is part of PluginTemplate.
+ * This file is part of ResourceWorld.
  *
- * PluginTemplate is free software: you can redistribute it and/or modify
+ * ResourceWorld is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * PluginTemplate is distributed in the hope that it will be useful,
+ * ResourceWorld is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with PluginTemplate.  If not, see <http://www.gnu.org/licenses/>.
+ * along with ResourceWorld.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 declare(strict_types=1);
 
-namespace PJZ9n\Template;
+namespace PJZ9n\ResourceWorld;
 
 use pocketmine\plugin\PluginBase;
 

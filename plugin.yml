@@ -1,4 +1,4 @@
-name: Template
+name: ResourceWorld
 version: 1.0.0
-main: PJZ9n\Template\Main
-api: 3.0.0
+main: PJZ9n\ResourceWorld\Main
+api: 3.12.0
